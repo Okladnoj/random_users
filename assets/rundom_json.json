@@ -1,0 +1,66 @@
+{
+    "results": [
+        {
+            "gender": "female",
+            "name": {
+                "title": "Ms",
+                "first": "Vicky",
+                "last": "Sanchez"
+            },
+            "location": {
+                "street": {
+                    "number": 2932,
+                    "name": "Springfield Road"
+                },
+                "city": "Bradford",
+                "state": "Central",
+                "country": "United Kingdom",
+                "postcode": "D20 5PW",
+                "coordinates": {
+                    "latitude": "7.1351",
+                    "longitude": "109.3410"
+                },
+                "timezone": {
+                    "offset": "+2:00",
+                    "description": "Kaliningrad, South Africa"
+                }
+            },
+            "email": "vicky.sanchez@example.com",
+            "login": {
+                "uuid": "fcf84c11-8bfb-431e-b825-df212aaf5464",
+                "username": "greensnake944",
+                "password": "blackman",
+                "salt": "S0Sph3DI",
+                "md5": "c6e0ee220bf470911a9158be049c0237",
+                "sha1": "322837c18cf6b7dfe5c38f2b0a78af42bebd24ae",
+                "sha256": "3d509d548206c03ac9deba1de52dd89809af665d123cf0ebb95d05984c9704ea"
+            },
+            "dob": {
+                "date": "1953-12-05T12:32:38.992Z",
+                "age": 67
+            },
+            "registered": {
+                "date": "2004-05-06T16:35:21.834Z",
+                "age": 16
+            },
+            "phone": "01534 223730",
+            "cell": "0767-187-633",
+            "id": {
+                "name": "NINO",
+                "value": "AB 02 75 98 H"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/14.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/14.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/14.jpg"
+            },
+            "nat": "GB"
+        }
+    ],
+    "info": {
+        "seed": "f7121808ef0782dc",
+        "results": 1,
+        "page": 1,
+        "version": "1.3"
+    }
+}
